@@ -4,7 +4,10 @@ A 2D survival game inspired by **The Walking Dead** series.
 
 ## 📹 Gameplay Demo
 
-[Watch the gameplay video here](YOUR_VIDEO_LINK)
+<div align="center">
+  <img src="/gameplay.gif" alt="so_long Gameplay" width="600">
+  <br>
+</div>
 
 ## 🎮 About the Game
 
