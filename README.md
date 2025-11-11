@@ -1,4 +1,4 @@
-# 🧟 so_long - The Walking Dead Edition
+# 🧟 so_long - Inspired by The walking dead
 
 A 2D survival game inspired by **The Walking Dead** series.
 
