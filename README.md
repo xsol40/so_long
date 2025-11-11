@@ -8,8 +8,8 @@ A 2D survival game inspired by **The Walking Dead** series.
   <img src="/gameplay.gif" alt="so_long Gameplay" width="600">
   <br>
   <br>
-  <a href="YOUR_YOUTUBE_LINK">
-    <img src="https://youtu.be/2lUpNDPsvRA?si=kIPt_CsIaj4nkXu3"alt="Watch on YouTube">
+ <a href="https://youtu.be/2lUpNDPsvRA?si=kIPt_CsIaj4nkXu3">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20Full%20Video-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube">
   </a>
 </div>
 
